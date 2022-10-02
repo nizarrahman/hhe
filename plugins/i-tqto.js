@@ -13,10 +13,18 @@ let handler = async (m, { conn, usedPrefix }) => {
       noteMessage: {
       extendedTextMessage: {
       text: `
- *BIG THANKS*
-*Nizar Rahman*: 
-https://instagram.com/nizarrahman.f_
+ *- - - —「 BIG THANKS TO 」— - - - ◂*
+*❉ Allah SWT*
+*❉ Ortu Gw*
+*❉ Guru Gw*
+*❉ My team*
+*❉ My all friend* 
+*❉ Para Pengguna Bot*
 
+*▸ - - - —「 Thanks For My Team 」— - - - ◂*
+*❉ Nizar Rahman*:https://instagram.com/nizarrahman.f_
+*❉ Irham:* https://instagram.com/yuki_sen23
+*❉ Adyran:* https://instagram.com/adrynngrha
 
 \`\`\`${conn.user.name}\`\`\`
 `,
